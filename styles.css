@@ -1,0 +1,17 @@
+.container {
+  max-width: 100%;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+}
+
+.background {
+  background: rgb(250, 249, 245);
+}
+
+.race-car {
+  width: 220px;
+  height: 220px;
+}
