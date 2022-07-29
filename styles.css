@@ -15,3 +15,19 @@
   width: 220px;
   height: 220px;
 }
+
+.rotate-down {
+  transform: rotate(0.25turn);
+}
+
+.rotate-left {
+  transform: rotate(0.5turn);
+}
+
+.rotate-up {
+  transform: rotate(0.75turn);
+}
+
+.rotate-right {
+  transform: rotate(1turn);
+}
