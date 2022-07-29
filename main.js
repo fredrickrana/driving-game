@@ -1,5 +1,3 @@
-// keydown event would change class to rotate each direction;
-
 var $raceCar = document.querySelector('.race-car');
 var $left = 37;
 var $up = 38;
